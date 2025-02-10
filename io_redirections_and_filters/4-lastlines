@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -lastlines /etc/passwd
+cat -l /etc/passwd
