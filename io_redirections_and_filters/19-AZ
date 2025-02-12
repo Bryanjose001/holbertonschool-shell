@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s A,Z C,E
+tr -c A,Z C,E
