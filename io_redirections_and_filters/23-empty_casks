@@ -1,2 +1,2 @@
 #!/bin/bash
-find rev | cut -1 | rev `
+find -empty | rev | cut -d | rev
