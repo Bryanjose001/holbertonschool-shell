@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((($TRUEKNOLEGE) +128))
+echo $((($TRUEKNOwLEGE) +128))
