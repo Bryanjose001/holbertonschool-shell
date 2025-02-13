@@ -1,2 +1,2 @@
 #!/bin/bash
-$((BINARY2=BINARY10))
+echo $((2#$BINARY))
